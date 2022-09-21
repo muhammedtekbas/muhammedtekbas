@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed TEKBAŞ</h1>
 <h3 align="center">Firat University- Computer Engineer</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, Java, C#**
 
 - 📫 How to reach me **muhammedtekbas10@gmail.com**
 
